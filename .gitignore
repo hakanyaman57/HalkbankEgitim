@@ -1,0 +1,15 @@
+# Maven build output
+/target/
+
+# Java runtime artifacts
+*.class
+
+# Logs
+*.log
+
+# IDE-specific files
+/.idea/
+*.iml
+/.classpath
+/.project
+/.settings/
